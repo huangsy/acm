@@ -1,0 +1,8 @@
+{
+    "name": "acm",
+    "version": "0.1.0",
+    "devDependencies": {
+        "commander": "~2.8.1",
+        "optimist": "~0.6.1"
+    }
+}
